@@ -89,10 +89,13 @@
     <h2>Esto es una prueba 2</h2>
 
 
+
+
+
+    <h2>Esto es una rama local de login</h2>
     <h1>Objeto</h1>
     <!-- Falta puntos-->
     
-
     <h1>Proposito</h1>
     <input type="radio" name="Proposito" id="Proposito_id">Estimar el valor comercial del inmueble<br>
     <input type="radio" name="Proposito" id="Proposito_id">Conocer el valor de las mejoras en la construcción<br>
